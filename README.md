@@ -1,9 +1,15 @@
-### console.log("Welcome to my profile👋")
+<h1 align="center">console.log("Welcome to my profile👋")</h1>
 
 ![matiasY Portfolio](https://user-images.githubusercontent.com/93013680/177220532-4c2b41f9-63b1-4fca-a946-cedd6525f0d5.PNG)
 
+ <h2 align="center"> 💻 GitHub Profile Stats </h2>
+ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox)  
+
+
+
+
 
 
 <h3 align="center">A passionate frontend developer!</h3>
