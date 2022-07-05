@@ -5,14 +5,20 @@
  <h2 align="center"> 💻 GitHub Profile Stats </h2>
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox) 
 
 
+<h2 align="center">Proyects</h2>
+<div align="center" ><video  src="https://user-images.githubusercontent.com/93013680/177230759-cd596a5f-c3c8-47fc-9c4f-8f69cb7a5544.mp4" autoplay muted loop width="100%" height="480">
 
-
+</video></div>
 
 
 <h3 align="center">A passionate frontend developer!</h3>
+<div align="center"><img width="300px"  height="300px" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" /></div>
+
+
+
 
 - 📫 How to reach me **matiiyosia@gmail.com**
 
