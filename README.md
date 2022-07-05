@@ -5,7 +5,7 @@
  <h2 align="center"> 💻 GitHub Profile Stats </h2>
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox) ![68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6361726f746f6261726a267468656d653d6c69676874 width="300px"](https://user-images.githubusercontent.com/93013680/177236303-d5cba316-ab00-48de-ab23-cbf111d3615f.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox)
 
 
 
