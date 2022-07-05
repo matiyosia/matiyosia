@@ -5,17 +5,26 @@
  <h2 align="center"> 💻 GitHub Profile Stats </h2>
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiyosia&show_icons=true&theme=gruvbox) ![68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6361726f746f6261726a267468656d653d6c69676874](https://user-images.githubusercontent.com/93013680/177236303-d5cba316-ab00-48de-ab23-cbf111d3615f.svg)
 
 
-<h2 align="center">Proyects</h2>
+
+<h2 align="center">💻Proyects💻</h2>
 <div align="center" ><video  src="https://user-images.githubusercontent.com/93013680/177230759-cd596a5f-c3c8-47fc-9c4f-8f69cb7a5544.mp4" autoplay muted loop width="100%" height="480">
 
 </video></div>
 
 
-<h3 align="center">A passionate frontend developer!</h3>
-<div align="center"><img width="300px"  height="300px" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" /></div>
+<h3 align="center">I'm FullStack Developer | MERN Stack</h3>
+<div align="center">
+<img width="300px"  height="300px" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif" /><h4 align="center">
+ Hello, my name is Matias, I am 25 years old and I am a full stack web developer,<br/>
+ passionate about programming, I like to be constantly learning and delve into <br/>
+ new knowledge, in my free time I like to play ball, spend time with my family!<br/>
+ I would like to get my first job and give my daughter the best quality of life </h4>
+
+</div>
+
 
 
 
